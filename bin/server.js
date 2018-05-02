@@ -1,4 +1,4 @@
-import runServer from './application';
+import runServer from '../application';
 
 const port = 3000;
 
