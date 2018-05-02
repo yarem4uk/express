@@ -1,0 +1,7 @@
+proba*.*
+test.*
+composer.*
+*.swp
+*.swo
+vendor/
+node_modules/

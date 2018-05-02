@@ -1,2 +1,2 @@
 install:
-	nmp install
+	npm install
